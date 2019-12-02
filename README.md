@@ -1,0 +1,1 @@
+This project provides speech of an appropriate data which has been extracted from json file after scraping.
